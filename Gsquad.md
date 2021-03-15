@@ -1,30 +1,20 @@
 # Openings
 
-We have many 𝗨𝗣𝗖𝗢𝗠𝗜𝗡𝗚 𝗚𝗜𝗚𝗦 and future openings! You can send me your resume to juana@gsquad.io
+Hi there! :) I have amazing opportunities to work with companies from all over the world. 
+If you are interested, please write me to juacervio@gmail.com or DM in LinkedIn (Juana Cervio)
 
-We are accepting candidates from across the globe. Please see below for the available roles: ⬇️
+Openings I am actively looking right now:
 
-1) Senior Squad Leads: Technical Product Managers with Scrum Master and Team Leadership Experience
+* Reactjs/Nodejs Devs with +3 years of xp from any part of the world, to work with companies from the US, Canada and Argentina, in direct relation with the companies, or as a contractor.
 
-2) Senior Tech Leads: NodeJS, iOS, Android, Ruby on Rails, ReactJS, React Native, Angular/Typescript, Full-stack Javascript, C#, Python, PHP, etc.
+* Java/Angular Devs with +3 years of xp from Argentina to work in direct relation with a multinational company.
 
-3) Senior/Intermediate+ Contributors:
-- Sr iOS Dev
-- Sr/Lead NodeJS Dev
-- Sr PHP/Wordpress Expert
-- Intermediate+ PHP/Wordpress Advanced Dev
-- Sr Ruby on Rails Dev
-- Sr/Lead Android Dev
-- Intermediate+ Android Dev
-- Sr HTML/CSS/Javascript/Bootstrap Dev
-- Sr Full Stack NodeJS/Typescript Dev
-- Intermediate+ Full Stack NodeJS/Typescript Dev
-- Sr Grails/Angular JS Dev
-- Sr ReactJS Dev
 
-Ideal Candidates:
-- Problem solving mindset and Computer Sciences studies
-- Upper intermediate/Advanced/Native level of English
-- Agile and flexible
-- Enjoys working in a challenging environment and with distributed teams
-- Team player
+Openings I usually have:
+
+* Python (both Django, Flask, or DE oriented) Devs
+* Ruby/RoR Devs
+* Tech Leads (different stacks)
+* UX/UI Designers
+
+And many more! All of them are remote openings, and paid in USD. Send me an invitation or follow me on LinkedIn so we can keep in touch :)
